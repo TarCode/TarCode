@@ -8,13 +8,10 @@
 
 <img src="https://media.giphy.com/media/l4FGKMDAn0EZKuZIk/giphy.gif" width="111">
 
-# Yo! I'm Tar!
+# Yo! I'm Tarcode!
 
-#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a full stack developer from South Africa <img src="https://media.giphy.com/media/JOk7H5UmYF5UWkiPxW/giphy.gif" width="30"> working at [Offerzen](https://www.offerzen.com/) <img src="https://d3qdc2zh3mwabb.cloudfront.net/assets/blog/cat-eyes@2x-9914499fb2d2f441992f9bc6ad52170a0255732bf5aa6554df178e4b2996e59f.png" width="30"> 
+#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a software engineer from South Africa <img src="https://media.giphy.com/media/JOk7H5UmYF5UWkiPxW/giphy.gif" width="30"> working at [Peach Payments](https://www.peachpayments.com/) <img src="https://www.peachpayments.com/hubfs/peach-favicon%20(1).png" width="30"> 
 
-![Tarcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarcode&theme=vision-friendly-dark&show_icons=true)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tarcode&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,3 +19,4 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WLk8YgE2N4mB2/giphy.gif" width="100%"/>
 </div>
+
