@@ -18,7 +18,7 @@ Full-stack software engineer with a dynamic skillset spanning frontend, backend,
 
 ## GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcode&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcode&layout=compact&theme=default&hide_border=true)
 
 ## Contact
 
