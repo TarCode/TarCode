@@ -1,22 +1,26 @@
+# Taariq Isaacs
 
+Senior Software Engineer at [Peach Payments](https://www.peachpayments.com/) | Cape Town, South Africa <img src="https://media.giphy.com/media/JOk7H5UmYF5UWkiPxW/giphy.gif" width="30">
 
-<div id="badges">
-  <a href="https://za.linkedin.com/in/taariq-isaacs-4b2052b8">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://za.linkedin.com/in/taariq-isaacs-4b2052b8)
 
-<img src="https://media.giphy.com/media/l4FGKMDAn0EZKuZIk/giphy.gif" width="111">
+## About
 
-# Yo! I'm Tarcode!
+Full-stack software engineer with a dynamic skillset spanning frontend, backend, and infrastructure. I adapt quickly to new technologies and business requirements, currently specializing in payment systems and financial technology at Peach Payments. I thrive on solving complex technical challenges across the entire development life cycle.
 
-#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a software engineer from South Africa <img src="https://media.giphy.com/media/JOk7H5UmYF5UWkiPxW/giphy.gif" width="30"> working at [Peach Payments](https://www.peachpayments.com/) <img src="https://www.peachpayments.com/hubfs/peach-favicon%20(1).png" width="30"> 
+## Tech Stack
 
+- **Languages:** JavaScript/TypeScript, Python, Ruby
+- **Frontend:** React, Next.js, HTML/CSS  
+- **Backend:** Node.js, Express, Django, Flask, FastAPI, REST APIs  
+- **Databases:** PostgreSQL, MongoDB, Redis  
+- **Tools:** Docker, AWS, Git, Linux  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcode&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WLk8YgE2N4mB2/giphy.gif" width="100%"/>
-</div>
+## Contact
 
+- **LinkedIn:** [taariq-isaacs-4b2052b8](https://za.linkedin.com/in/taariq-isaacs-4b2052b8)
+- **Location:** Cape Town, South Africa (UTC+2)
