@@ -6,7 +6,7 @@ Senior Software Engineer at [Peach Payments](https://www.peachpayments.com/) | C
 
 ## About
 
-Full-stack software engineer with a dynamic skillset spanning frontend, backend, and infrastructure. I adapt quickly to new technologies and business requirements, currently specializing in payment systems and financial technology at Peach Payments. I thrive on solving complex technical challenges across the entire development life cycle.
+Full-stack software engineer with a dynamic skillset spanning frontend, backend, and infrastructure. I adapt quickly to new technologies and business requirements, currently specializing in big data processing for payment systems and financial technology at Peach Payments. I thrive on solving complex technical challenges across the entire development life cycle.
 
 ## Tech Stack
 
